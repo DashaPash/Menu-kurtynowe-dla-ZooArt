@@ -1,0 +1,9 @@
+.recommended {
+  border-left: 1px solid grey;
+  height: auto;
+  margin-left: 15px;
+
+  &__list {
+    display: flex;
+  }
+}
